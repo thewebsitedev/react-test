@@ -1,7 +1,5 @@
 # react-test
 
-Testing for project
-
 I am trying to build a web button creator app. Below is an image where I broke the UI into smaller components. 
 
 ![alt text](https://i.stack.imgur.com/eiNgG.png "App Structure")
